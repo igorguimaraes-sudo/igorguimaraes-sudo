@@ -1,14 +1,14 @@
- Inbox
-git
-❄️ Olá, eu sou o Igor!
+
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07111F,50:123C69,100:65D9FF&height=220&section=header&text=Igor%20Guimaraes&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Python%20%7C%20Ruby%20%7C%20JavaScript&descAlignY=55&descSize=18" width="100%" alt="Banner azul-gelo de Igor Guimaraes"/>
 
+# ❄️ Olá, eu sou o Igor!
+
+### Disciplina • Foco • Evolução
 
 氷 — Transformando ideias em código, um passo de cada vez.
 Inspirado na determinação e no poder do gelo de Tōshirō Hitsugaya.
-
-
 
 </div>
 
@@ -30,31 +30,32 @@ Estou aprendendo e explorando diferentes tecnologias, buscando transformar conhe
 “Grandes evoluções começam com pequenos passos. Continue avançando, mesmo quando o caminho parecer difícil.”
 
 🧊 Tecnologias em aprendizado
+<h2 align="center">❄️ Tecnologias em aprendizado</h2>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,ruby,js,git,github,vscode" alt="Python, Ruby, JavaScript, Git, GitHub e VS Code"/>
+</div>
+
+
+🚀 Projetos em destaque
+
 <div align="center">
 
-
-
-
-
+| Projeto | Tecnologia | Objetivo |
+|---|---|---|
+| 🐍 Estudos de Python | Python | Praticar lógica e automação |
+| 💎 Calculadora | Ruby | Exercitar métodos e operações |
+| ❄️ Lista de tarefas | JavaScript | Criar uma aplicação web interativa |
 
 </div>
 
-🚀 Projetos que quero desenvolver
-   
-   Projeto	Tecnologia	Objetivo
-
-🐍 Estudos de Python, Praticar lógica, funções e automação.
-
-💎 Calculadora	Ruby	Trabalhar com operações e métodos.
-
-⚡ Lista de tarefas	JavaScript	Criar uma aplicação web interativa.
-Essas são minhas ideias iniciais de projetos. Os links serão adicionados quando os respectivos repositórios estiverem publicados.
-
 📊 Minha jornada no GitHub
+
 <div align="center">
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=igorguimaraes-sudo&show_icons=true&theme=tokyonight&hide_border=true)
 
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=igorguimaraes-sudo&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
