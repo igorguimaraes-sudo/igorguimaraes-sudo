@@ -25,7 +25,6 @@ Estou aprendendo e explorando diferentes tecnologias, buscando transformar conhe
 
 📚 Valorizando a prática, a disciplina e o aprendizado contínuo.
 
-⚔️ Fã de anime, especialmente Bleach e Tōshirō Hitsugaya.
 
 “Grandes evoluções começam com pequenos passos. Continue avançando, mesmo quando o caminho parecer difícil.”
 
