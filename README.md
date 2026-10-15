@@ -29,7 +29,6 @@ Estou aprendendo e explorando diferentes tecnologias, buscando transformar conhe
 
 “Grandes evoluções começam com pequenos passos. Continue avançando, mesmo quando o caminho parecer difícil.”
 
-🧊 Tecnologias em aprendizado
 <h2 align="center">❄️ Tecnologias em aprendizado</h2>
 
 <div align="center">
