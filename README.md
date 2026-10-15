@@ -40,9 +40,13 @@ Estou aprendendo e explorando diferentes tecnologias, buscando transformar conhe
 </div>
 
 🚀 Projetos que quero desenvolver
+   
    Projeto	Tecnologia	Objetivo
+
 🐍 Estudos de Python, Praticar lógica, funções e automação.
+
 💎 Calculadora	Ruby	Trabalhar com operações e métodos.
+
 ⚡ Lista de tarefas	JavaScript	Criar uma aplicação web interativa.
 Essas são minhas ideias iniciais de projetos. Os links serão adicionados quando os respectivos repositórios estiverem publicados.
 
