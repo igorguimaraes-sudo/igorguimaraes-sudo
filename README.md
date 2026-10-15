@@ -8,7 +8,6 @@
 ### Disciplina • Foco • Evolução
 
 氷 — Transformando ideias em código, um passo de cada vez.
-Inspirado na determinação e no poder do gelo de Tōshirō Hitsugaya.
 
 </div>
 
