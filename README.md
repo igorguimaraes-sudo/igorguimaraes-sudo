@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./banner-cyberpunk.png"
        width="100%"
-       alt="Banner Cyberpunk com Neon e Código.png"/>
+       alt="banner-cyberpunk.png"/>
 
   <h3>⚡ CODE • LEARN • EVOLVE ⚡</h3>
 </div>
