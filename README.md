@@ -6,18 +6,6 @@
   <h3>⚡ CODE • LEARN • EVOLVE ⚡</h3>
 </div>
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F19,50:102A43,100:00D9FF&height=200&section=header&text=IGOR%20GUIMARAES&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=CODE%20%7C%20LEARN%20%7C%20EVOLVE&descAlignY=55&descSize=16" width="100%" alt="Banner cyberpunk azul neon"/>
-
-
-
-
-
-Transformando ideias em código, um projeto de cada vez.
-
-</div>
-
 👨‍💻 Sobre mim
 
 Olá! Sou Igor, um entusiasta da tecnologia que está construindo sua jornada no desenvolvimento de software.
