@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="./banner-cyberpunk.png"
+  <img src="./banner-cyberpunk-transparente.png"
        width="100%"
-       alt="banner-cyberpunk.png"/>
+       alt="banner-cyberpunk-transparente.png"/>
 
   <h3>⚡ CODE • LEARN • EVOLVE ⚡</h3>
 </div>
