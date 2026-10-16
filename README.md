@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./banner-cyberpunk.png"
        width="100%"
-       alt="Banner cyberpunk de Igor Guimarães"/>
+       alt="Banner Cyberpunk com Neon e Código.png"/>
 
   <h3>⚡ CODE • LEARN • EVOLVE ⚡</h3>
 </div>
