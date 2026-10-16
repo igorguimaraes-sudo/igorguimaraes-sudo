@@ -1,90 +1,118 @@
+⚡ IGOR GUIMARÃES | PYTHON DEVELOPER IN PROGRESS
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07111F,50:123C69,100:65D9FF&height=220&section=header&text=Igor%20Guimaraes&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Python%20%7C%20Ruby%20%7C%20JavaScript&descAlignY=55&descSize=18" width="100%" alt="Banner azul-gelo de Igor Guimaraes"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F19,50:102A43,100:00D9FF&height=200&section=header&text=IGOR%20GUIMARAES&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=CODE%20%7C%20LEARN%20%7C%20EVOLVE&descAlignY=55&descSize=16" width="100%" alt="Banner cyberpunk azul neon"/>
 
-# ❄️ Olá, eu sou o Igor!
 
-### Disciplina • Foco • Evolução
 
-氷 — Transformando ideias em código, um passo de cada vez.
+
+
+Transformando ideias em código, um projeto de cada vez.
 
 </div>
 
 👨‍💻 Sobre mim
-Olá! Sou Igor, um entusiasta da tecnologia que está iniciando sua jornada no desenvolvimento de software.
 
-Estou aprendendo e explorando diferentes tecnologias, buscando transformar conhecimento em projetos práticos e evoluir continuamente como desenvolvedor.
+Olá! Sou Igor, um entusiasta da tecnologia que está construindo sua jornada no desenvolvimento de software.
 
-❄️ Aprendendo Python, Ruby e JavaScript.
+Atualmente, meu foco é aprender Python, praticar lógica de programação e desenvolver projetos que transformem conhecimento em soluções práticas.
 
-💻 Desenvolvendo meus primeiros projetos.
+🐍 Estudando Python e seus fundamentos.
 
-🎯 Buscando melhorar minha lógica de programação.
+💻 Praticando lógica de programação.
 
-📚 Valorizando a prática, a disciplina e o aprendizado contínuo.
+🚀 Construindo meus primeiros projetos.
 
+📚 Aprendendo continuamente e documentando minha evolução.
 
-“Grandes evoluções começam com pequenos passos. Continue avançando, mesmo quando o caminho parecer difícil.”
+🎯 Meu objetivo é desenvolver um portfólio sólido e conquistar oportunidades na área de tecnologia.
 
-<h2 align="center">❄️ Tecnologias em aprendizado</h2>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,ruby,js,git,github,vscode" alt="Python, Ruby, JavaScript, Git, GitHub e VS Code"/>
-</div>
-
-
-🚀 Projetos em destaque
+🧠 Habilidades em desenvolvimento
 
 <div align="center">
 
-| Projeto | Tecnologia | Objetivo |
-|---|---|---|
-| 🐍 Estudos de Python | Python | Praticar lógica e automação |
-| 💎 Calculadora | Ruby | Exercitar métodos e operações |
-| ❄️ Lista de tarefas | JavaScript | Criar uma aplicação web interativa |
+
+
+
+
 
 </div>
 
-📊 Minha jornada no GitHub
+Atualmente estudando:
+
+Variáveis, tipos de dados e operadores.
+
+Condicionais e estruturas de repetição.
+
+Funções e organização de código.
+
+Listas, dicionários e manipulação de arquivos.
+
+Automação de tarefas com Python.
+
+🚀 Projetos para meu portfólio
+
+Estes são projetos sugeridos para praticar e demonstrar minha evolução.
+
+🐍 01 — Python Fundamentals
+
+Pequenos exercícios para desenvolver lógica de programação e consolidar os fundamentos da linguagem.
+
+Ideias: calculadora, conversor de unidades e jogo de adivinhação.
+
+⚙️ 02 — Automação com Python
+
+Scripts para automatizar tarefas repetitivas e facilitar atividades do dia a dia.
+
+Ideias: organização de arquivos, leitura de planilhas e geração de relatórios.
+
+📊 03 — Controle de tarefas
+
+Uma aplicação simples para cadastrar, listar, concluir e remover tarefas, praticando estruturas de dados e persistência de informações.
+
+Tecnologias: Python e, futuramente, SQLite.
+
+Os projetos acima são ideias para desenvolver. Os links serão adicionados quando os repositórios estiverem publicados.
+
+📈 Estatísticas do GitHub
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=igorguimaraes-sudo&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=igorguimaraes-sudo&layout=compact&theme=tokyonight&hide_border=true)
+
+
 
 </div>
 
-🎯 Meus objetivos
+🎯 Objetivos
 
-Construir meus primeiros projetos funcionais.
+Consolidar os fundamentos de Python.
 
+Criar e publicar meus primeiros projetos.
 
-Aprimorar minha lógica de programação.
+Aprender a utilizar Git e GitHub com confiança.
 
+Desenvolver scripts úteis para situações reais.
 
-Desenvolver aplicações com Python, Ruby e JavaScript.
+Aprender testes e boas práticas de programação.
 
+Evoluir meu portfólio com projetos cada vez melhores.
 
-Aprender a trabalhar com Git e GitHub.
-
-
-Criar um portfólio com projetos próprios.
-
-
-Evoluir continuamente como desenvolvedor.
-
-🤝 Vamos nos conectar?
-Se quiser acompanhar minha evolução, conhecer meus projetos ou trocar experiências sobre tecnologia, fique à vontade!
+🌐 Conecte-se comigo
 
 <div align="center">
 
 
 
-❄️ Disciplina. Foco. Evolução.
-Cada linha de código é mais um passo na jornada.
+</div>
 
+<div align="center">
 
+> KEEP LEARNING. KEEP BUILDING.
+
+Um commit de cada vez. Uma habilidade de cada vez.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:102A43,100:0B0F19&height=100&section=footer" width="100%" alt="Rodapé com ondas em neon azul"/>
 
 </div>
